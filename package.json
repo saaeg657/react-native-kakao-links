@@ -1,0 +1,66 @@
+{
+  "_args": [
+    [
+      "react-native-kakao-links@1.0.2",
+      "/Users/macbook1604/Documents/rarajobApp"
+    ]
+  ],
+  "_from": "react-native-kakao-links@1.0.2",
+  "_id": "react-native-kakao-links@1.0.2",
+  "_inBundle": false,
+  "_integrity": "sha512-PkGZ+AxSX4ENQCLNszo4UMd0cWlNpuKjPkvhKmHSLFX9CKgeSjmWeMLigY6c1DPstFP2xh+C0PEA+xs0Lr9ahA==",
+  "_location": "/react-native-kakao-links",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "react-native-kakao-links@1.0.2",
+    "name": "react-native-kakao-links",
+    "escapedName": "react-native-kakao-links",
+    "rawSpec": "1.0.2",
+    "saveSpec": null,
+    "fetchSpec": "1.0.2"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-kakao-links/-/react-native-kakao-links-1.0.2.tgz",
+  "_spec": "1.0.2",
+  "_where": "/Users/macbook1604/Documents/rarajobApp",
+  "author": {
+    "name": "Seo Taehoon",
+    "url": "https://github.com/shpongle2634"
+  },
+  "bugs": {
+    "url": "https://github.com/shpongle2634/react-native-kakao-links/issues"
+  },
+  "description": "React-Native Module for KakaoLink",
+  "homepage": "https://github.com/shpongle2634/react-native-kakao-links",
+  "keywords": [
+    "react-native",
+    "react-native-kakao",
+    "react-native-kakao-link",
+    "react-native-kakao-links",
+    "react-native-kakaotalk",
+    "react-native-kakao-talk",
+    "kakao",
+    "kakaotalk",
+    "kakaolink"
+  ],
+  "license": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/MIT"
+    }
+  ],
+  "main": "index.js",
+  "name": "react-native-kakao-links",
+  "peerDependencies": {
+    "react-native": "^0.41.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shpongle2634/react-native-kakao-links.git"
+  },
+  "version": "1.0.2"
+}
